@@ -1,19 +1,17 @@
-# IDE configuration
+# IDE Configuration
 
 .idea/
 .vscode/
 .obsidian/
 
-# Framework configuration
-
-.editorconfig
+# Framework Configuration
 
 # Dependencies
 
 node_modules/
 .angular
 
-# Build
+# Output
 
 target/
 build/
