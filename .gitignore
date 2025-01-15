@@ -4,9 +4,14 @@
 .vscode/
 .obsidian/
 
+# Framework configuration
+
+.editorconfig
+
 # Dependencies
 
 node_modules/
+.angular
 
 # Build
 
