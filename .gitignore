@@ -13,6 +13,7 @@ node_modules/
 
 # Output
 
+out/
 target/
 build/
 dist/
